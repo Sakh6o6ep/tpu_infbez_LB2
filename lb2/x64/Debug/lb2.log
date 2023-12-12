@@ -1,0 +1,6 @@
+﻿  Security.cpp
+C:\Users\SakhBeaver\Desktop\учеба\мага\2 курс\Инф без-ть\lb2\lb2\Security.cpp(54,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SakhBeaver\Desktop\учеба\мага\2 курс\Инф без-ть\lb2\lb2\Security.cpp(59,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SakhBeaver\Desktop\учеба\мага\2 курс\Инф без-ть\lb2\lb2\Security.cpp(64,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SakhBeaver\Desktop\учеба\мага\2 курс\Инф без-ть\lb2\lb2\Security.cpp(69,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lb2.vcxproj -> C:\Users\SakhBeaver\Desktop\учеба\мага\2 курс\Инф без-ть\lb2\x64\Debug\lb2.exe
